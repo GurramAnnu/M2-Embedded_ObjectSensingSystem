@@ -1,5 +1,4 @@
 # M2-Embedded_ObjectSensingSystem
-# M2-Embedded_ObstacleDetectionSystem
     
 _The proposed system is designed to detect objects coming in the vision of ultrasonic sensor and measure the distance of the object from the ultrasonic sensor. The ATMEGA328 microcontroller is used which controls and monitors the desired operations. In many applications like vehicle control, medical applications, robotic movement control, etc.; distance measurement of an object is used. The main objective is to quantify and observe the obstacle or the human movement distantly and utilizing less labour however much as could reasonably expected._
 
